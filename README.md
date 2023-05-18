@@ -23,6 +23,9 @@ The `Almosafer` class contains a set of test cases that cover various functional
 
 
 ##To run the test cases in this project, you need to have the following requirements set up:
+
 A. Java Development Kit (JDK) is installed.
+
 B. Selenium WebDriver library is installed.
+
 C. TestNG framework is installed.
