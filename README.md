@@ -1,9 +1,9 @@
 # Almosafer
 
-*This repository contains a Java-based test automation project for testing the Almosafer website. The project utilizes the Selenium WebDriver and TestNG frameworks.
+This repository contains a Java-based test automation project for testing the Almosafer website. The project utilizes the Selenium WebDriver and TestNG frameworks.
 ## Project Description
 
-The `Almosafer` class contains a set of test cases that cover various functionalities of the Almosafer website. Here's an overview of the test cases implemented:
+The "Almosafer" class contains a set of test cases that cover various functionalities of the Almosafer website. Here's an overview of the test cases implemented:
 
 1.check_the_website_default_currency`: This test verifies if the default currency displayed on the website is SAR (Saudi Riyal).
 
